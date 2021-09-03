@@ -28,6 +28,7 @@ Commands:
 
 ## 2 задание
 файл [game](game.js)
+
 Пример запуска:
 ```shell
 $ game
